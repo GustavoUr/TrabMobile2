@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrabMobile</string>
+    <string name="img_download_url">https://image.tmdb.org/t/p/w600_and_h900_bestv2%s</string>
+    <string name="id_genres">28</string>
+</resources>
